@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "quote_of_day",
+    "quotes",
 ]
 
 MIDDLEWARE = [
