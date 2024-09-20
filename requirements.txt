@@ -82,3 +82,5 @@ weasel==0.3.4
 Werkzeug==3.0.1
 wget==3.2
 xlrd==2.0.1
+whitenoise==6.7.0
+
