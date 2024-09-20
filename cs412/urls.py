@@ -21,7 +21,6 @@ from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("hw/", include("hw.urls")),
     path("quote_of_day/", include("quote_of_day.urls")) #create URL hw/, 
                                  ###associate with URLS in another file
                                     
